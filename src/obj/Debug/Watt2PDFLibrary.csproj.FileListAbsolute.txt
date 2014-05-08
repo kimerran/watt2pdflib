@@ -1,0 +1,10 @@
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\Watt2PDFLibrary.dll
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\Watt2PDFLibrary.pdb
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\obj\Debug\Watt2PDFLibrary.dll
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\obj\Debug\Watt2PDFLibrary.pdb
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\HtmlAgilityPack.dll
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\HtmlAgilityPack.pdb
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\HtmlAgilityPack.xml
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\obj\Debug\Watt2PDFLibrary.csprojResolveAssemblyReference.cache
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\Ionic.Zip.dll
+E:\Desktop\Watt2Pdf\Watt2PDFLibrary\bin\Debug\Ionic.Zip.xml
